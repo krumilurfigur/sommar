@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(246, 255, 125);
+}
+
+
+.top {
+    display: flex;
+    justify-content: space-evenly;
+    height: 300;
+} 
+
+.text {
+    margin: auto;
+    width: 50%;
+    background-color: rgb(38, 255, 103);
+
+}
